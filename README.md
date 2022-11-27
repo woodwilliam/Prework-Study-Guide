@@ -1,11 +1,11 @@
 # Prework Study Guide Webpage
 
 ## Description
-    This project was created to store information to reffrence throught my time in the coding bootcamp. The problem it solves is not having my prework notes accessable to the public so they can discern how well I understand the material presented. I learned the basics of GitBash and Git hub as well as the basics for JavaScript, CSS, and HTML. 
+This project was created to store information to reffrence throught my time in the coding bootcamp. The problem it solves is not having my prework notes accessable to the public so they can discern how well I understand the material presented. I learned the basics of GitBash and Git hub as well as the basics for JavaScript, CSS, and HTML. 
 
 
 ## Installation
-    N/A
+N/A
 
 ## Usage
 
